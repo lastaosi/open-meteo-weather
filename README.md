@@ -5,6 +5,14 @@ Flutter 학습 과정에서 Clean Architecture와 상태관리 패턴을 직접 
 
 ---
 
+## 스크린샷
+
+| 홈 화면 | 도시 검색 |
+|---------|-----------|
+| ![홈 화면](screenshots/home.png) | ![도시 검색](screenshots/city_search.png) |
+
+---
+
 ## 주요 기능
 
 - 도시 검색 (Open-Meteo Geocoding API)
